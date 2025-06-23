@@ -111,4 +111,3 @@ breast-cancer-predictor/
 ## Author
 
 **Sarif Sheikh**  
-ML Intern at IIITDM Kancheepuram
